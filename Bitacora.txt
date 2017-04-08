@@ -43,3 +43,9 @@ Se comenzo a trabajar en el documento SAD, quedan campos pendientes.
 
 Actividad 1 Abril 17
 Se finalizo el documento SAD.
+
+Actividad 5 Abril 17
+Se comenzo a programar en la programacion del servidor usando NetBeans. Trabajo via Skype y Google Drive.
+
+Actividad 6 Abril 17
+Se continuo con la programacion del servidor y se comenzo a probar ANdroid Studio.
