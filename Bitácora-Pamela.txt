@@ -1,55 +1,97 @@
 Bitacora
-Nombre del estudiante: Pamela Sanchez Mu駉z
+Nombre del estudiante: Pamela Sanchez Mu帽oz
 Carne: 2013019495
+
 Actividad: Primer contacto con el cliente
 Fecha: 26/03/17
 Llame al potencial futuro cliente via llamada telefonica para comentarle un poco del curso de proyecto de ingenieria y hablar acerca de si podria ser el futuro cliente.
+
 Actividad: Avance de los documentos (Vision y Acta Constitutiva)
 Fecha: 02/03/17
-Una vez aprobado el proyecto por Maria Estrada via correo, mi compa馿ro de trabajo y yo procedimos a llenar un poco la informacion pedida en los documentos vision y acta constitutiva, hace falta mucha informacion. Trabajo grupal via Skype y Google Drive.
-Actividad: Primera reuni髇 formal con el cliente
+Una vez aprobado el proyecto por Maria Estrada via correo, mi compa帽ero de trabajo y yo procedimos a llenar un poco la informacion pedida en los documentos vision y acta constitutiva, hace falta mucha informacion. Trabajo grupal via Skype y Google Drive.
+
+Actividad: Primera reuni贸n formal con el cliente
 Fecha: 05/03/17
 Se le presento al cliente la propuesta del proyecto y este nos explico y detallo la aplicacion deseada, se tomaron nota de todos los requerimientos.
+
 Actividad: Avance de los documentos (Vision y Acta Constitutiva)
 Fecha: 07/03/17
 Se siguio llenando los campos faltantes de los documentos, faltaron pocos rubros, en su mayoria los relacionados con caracteristicas de la aplicacion, ya que no se han realizado los casos de uso. Trabajo grupal via Skype y Google Drive.
+
 Actividad: Avance de los documentos (Vision, Acta Constitutiva y Casos de uso)
 Fecha: 09/03/17
 Finalizamos el acta constitutiva, en la vision solo nos falto el diagrama de Gantt, y se adelantaron los casos de uso. Trabajo grupal via Skype y Google Drive.
+
 Actividad: Finalizacion de los documentos (Vision y Casos de uso)
 Fecha: 11/03/17
 Finalizamos los documentos de vision y casos de usos con su respectivo diagrama. Trabajo grupal via Skype y Google Drive.
+
 Actividad: Comienzo del prototipo y discusion de temas del paper
 Fecha: 16/03/17
 Comenzamos las primeras partes del prototipo, estuvimos analizando varias opciones de herramientas como moqups, bootstrap, uxpin. Ademas discutimos sobre los temas que se han de incluir en el paper.
 Trabajo grupal via Skype y Google Drive.
+
 Actividad:Reunion con el cliente, muestra del prototipo
 Fecha:17/03/17
 Se mostro un prototipo al cliente, se discutieron cambios menores, cliente se mostro satisfecho, ademas se presento el tema del paper al cliente. Reunion grupal presencial con el cliente 
+
 Actividad:Finalizacion documentos del prototipo, finalizacion de documento de temas del paper
 Fecha:18/03/17
 Se termino el prototipo completo, se realizaron los documentos del mismo. Se finalizo el documento de temas del paper.
+
 Actividad:Comienzo del plan de pruebas
 Fecha:23/03/17
 Se comenzo el documento de plan de pruebas.Trabajo grupal via Skype y Google Drive.
+
 Actividad:Continuacion plan de pruebas y comienzo ERS
 Fecha:24/03/17
 Se continuo con el plan de pruebas y se comenzo el documento ERS.Trabajo grupal via Skype y Google Drive.
+
 Actividad:Finalizacion plan de pruebas y ERS
 Fecha:25/03/17
 Se finalizaron los documentos del plan de pruebas y el ERS completos.Trabajo grupal via Skype y Google Drive.
+
 Actividad:Comienzo del documento SAD
 Fecha:31/03/17
 Se comenzo a  trabajar el documento SAD, quedan cosas pendientes. Trabajo grupal via Skype y Google Drive.
+
 Actividad:Finalizacion del documento SAD
 Fecha:1/04/17
 Se finalizo el documento SAD. Trabajo grupal via Skype y Google Drive.
+
 Actividad:Se comenzo a programar el servidor
 Fecha:5/04/17
-Se comenzo a trabajar en la programaci髇 del servidor en Neatbeans. Trabajo grupal via Skype y Google Drive.
+Se comenzo a trabajar en la programaci贸n del servidor en Neatbeans. Trabajo grupal via Skype y Google Drive.
+
 Actividad:Seguimiento de desarrollo del codigo
 Fecha:6/04/17
 Se continuo la programacion del servidor y se comenzo la investigacion de la programacion en Android studio. Trabajo grupal via Skype y Google Drive.
-Actividad:Finalizacion de la programaci髇 del servidor y continuacion de programacion de interfaces
+
+Actividad:Finalizacion de la programaci贸n del servidor y continuacion de programacion de interfaces
 Fecha:7/04/17
 Se termino de programar el servidor y se continuo programando las primeras interfaces de MenuPrincipal y BusquedaSencilla en Android Studio. Trabajo grupal via Skype y Google Drive.
+
+Actividad:Continuaci贸n de la programaci贸n de interfaces
+Fecha:10/04/17
+Se continuo tratando de programar las interfaces, se lograron avances, pero aun siguen surgiendo problemas, es necesario investigar m谩s a fondo el funcionamiento de Android Studio, se planea reunirnos con el usuario el dia de ma帽ana para mostrar los avances. Trabajo grupal via Skype y Google Drive.
+
+Actividad:Reunion con el cliente, se realizan cambios en los casos de usos y funcionalidades
+Fecha:11/04/17
+Se realizo la reunion semanal con el cliente, se le mostraron los avances, el mismo manifesto su agrado y aprobacion, mas pidio agregar la funcionaidad de un historial a la aplicacion, se discutieron y se registraron los cambios. Reunion en la Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Actividad:Continuaci贸n de la programaci贸n de interfaces
+Fecha:15/04/17
+Se investigo como utilizar de manera mas apropiada Android Studio, se avanzo en el desarrollo de la programacion, se tomo en cuenta el cambio de planes al incorporar el historial. Trabajo grupal via Skype y Google Drive.
+
+Actividad:Comienzo y finalizacion del documento ERS2
+Fecha:18/04/17
+Se comenzo a trabajar en el documento de Especificacion de Requerimientos de Software para la segunda iteracion, esto actualizando el documento ya existente donde se toman en cuenta todos los cambios. Trabajo grupal via Skype y Google Drive.
+
+Actividad:Continuaci贸n de la programaci贸n de interfaces y comienzo del plan de pruebas 2
+Fecha:21/04/17
+Se realizaron unos peque帽os ajustes a las interfaces en Android Studio y se comenzo ligeramente el documento de plan de pruebas para la iteracion 2. Trabajo grupal via Skype y Google Drive.
+
+Actividad:Finalizacion del documento de plan de pruebas 2
+Fecha:22/04/17
+Se finalizo el documento de plan de pruebas para la iteracion 2, al actualizar el documento ya existente tomando en cuenta los nuevos casos de prueba con las nuevas funcionaldades del programa. Trabajo grupal via Skype y Google Drive.
+
