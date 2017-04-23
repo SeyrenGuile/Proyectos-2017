@@ -49,3 +49,25 @@ Se comenzo a programar en la programacion del servidor usando NetBeans. Trabajo 
 
 Actividad 6 Abril 17
 Se continuo con la programacion del servidor y se comenzo a probar ANdroid Studio.
+
+Actividad 7 de abril del 2017
+Se termino de programar el servidor y se continuo programando las interfaces del menu principal y busqueda sencilla en Android Studio. Trabajo grupal via Skype y Google Drive.
+
+Actividad 10 de abril del 2017
+Se continuo trabajando en la interfaz, surgieron problemas, es necesario buscar mas informacion sobre el uso de Android Studio
+se planea reunirse con el cliente manana. Trabajo grupal via Skype y Google Drive.
+
+Actividad 11 de abril del 2017
+Se reunio con el cliente y se le mostro los avances, pidio agregar una funcionalidad de historial, se acepto y se siguio hablando sobre la aplicacion.
+
+Actividad 15 de abril del 2017
+Se sigue buscando maneras sobre utilizar Android Studio, se avanzo en la programacion y se tomaron en cuenta los planes del historial. Trabajo en Skype y Google Drive.
+
+Actividad 18 de abril del 2017
+Se inicio el trabajo en el ERS de la segunda iteracion, se tomo como base el primero pero tomando los cambios en cuenta. Trabajo via Skype y Google Drive.
+
+Actividad 21 de abril del 2017
+Se realizaron ajustes en la interfaz de Android Studio y se comenzo el documento del plan de pruebas para la Iteracion 2. Trabajo via Skype y Google Drive.
+
+Actividad de 22 de abril del 2017
+Se finalizo el plan de pruebas para la iteracion 2. Trabajo via Skype y Google Drive.
