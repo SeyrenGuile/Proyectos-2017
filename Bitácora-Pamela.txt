@@ -95,3 +95,25 @@ Actividad:Finalizacion del documento de plan de pruebas 2
 Fecha:22/04/17
 Se finalizo el documento de plan de pruebas para la iteracion 2, al actualizar el documento ya existente tomando en cuenta los nuevos casos de prueba con las nuevas funcionaldades del programa. Trabajo grupal via Skype y Google Drive.
 
+Actividad:Comienzo del Paper
+Fecha:25/04/17
+Se comenzo a trabajar en el paper del proyecto, cuyo tema es "Recuperacion de la informacion textual como herramienta en la actualidad", se recolecto variada informacion relaciona al tema, quedaron pocos temas por terminar. Trabajo grupal via Skype y Google Drive.
+
+Actividad:Comienzo del documento SAD 2 y se finalizo el Paper 
+Fecha:27/04/17
+Se comenzo el documento SAD 2 actualizando el primer SAD previamente enviado, la seccion de capas queda pendiente de actualizacion porque falta actualizacion con el codigo de la aplicacion. Ademas se finalizo el Paper y se paso a Latex para una mejor presentacion.
+Trabajo grupal via Skype y Google Drive.
+
+Actividad:Continuación de programacion del codigo interno de la aplicacion
+Fecha:27/04/17
+Se comenzo a dividir de manera comoda y entendible las clases de la aplicacion, y se procedio a trabajar en la navegabilidad de la aplicacion, tomando en cuenta las nuevas caracteristicas agregadas.Trabajo grupal via Skype y Google Drive.
+
+Actividad:Reunion con el cliente, se muestran cambios y se espera aceptacion del mismo
+Fecha:28/04/17
+Se realizo la reunion semanal con el cliente, se le mostraron los avances de la aplicacion tomando en cuenta los avances dados, se le mostro la navegabilidad presente hasta ahora en la aplicacion, el cliente mostro su agrado y agrego sus sugerencias en cuanto a las preferencias en la apariencia de la interfaz. Reunion en la Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Actividad:Finalizacion del documento SAD 2
+Fecha:30/04/17
+Una vez obtenido el consentimiento del cliente se procedio a realizar los cambios restantes en el documento SAD 2.Trabajo grupal via Skype y Google Drive.
+
+
