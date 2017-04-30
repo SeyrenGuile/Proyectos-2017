@@ -100,7 +100,7 @@ Fecha:25/04/17
 Se comenzo a trabajar en el paper del proyecto, cuyo tema es "Recuperacion de la informacion textual como herramienta en la actualidad", se recolecto variada informacion relaciona al tema, quedaron pocos temas por terminar. Trabajo grupal via Skype y Google Drive.
 
 Actividad:Comienzo del documento SAD 2 y se finalizo el Paper 
-Fecha:27/04/17
+Fecha:26/04/17
 Se comenzo el documento SAD 2 actualizando el primer SAD previamente enviado, la seccion de capas queda pendiente de actualizacion porque falta actualizacion con el codigo de la aplicacion. Ademas se finalizo el Paper y se paso a Latex para una mejor presentacion.
 Trabajo grupal via Skype y Google Drive.
 
