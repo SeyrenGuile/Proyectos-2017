@@ -1,3 +1,5 @@
+package tec.lds.com;
+
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
@@ -27,6 +29,7 @@ public class Cliente implements Runnable {
 
     public void run() {
         try {
+            System.out.println("Recibiendo... ");
             String mensaje = entrada.readUTF();
             System.out.println("Mensaje Obtenido: " + mensaje);
             String[] solicitud = mensaje.split(",");
@@ -38,8 +41,10 @@ public class Cliente implements Runnable {
                 String tipo = solicitud[0];
                 String consulta = solicitud[1];
                 List<String> resultado = null;
+                System.out.println("Tipo es: " + tipo);
+                System.out.println("Consulta es: " + consulta);
                 if (tipo.equals("Busqueda por palabra")){
-                    IndexadorLucene index = new IndexadorLucene(rutaDocumentos + "/" + tipo);
+                    IndexadorLucene index = new IndexadorLucene(rutaDocumentos);
                     resultado = index.encontrar(consulta);
                 }else if (tipo.equals("Busqueda por categoria")){
                     IndexadorLucene index = new IndexadorLucene(rutaDocumentos + "/" + tipo);
@@ -52,7 +57,7 @@ public class Cliente implements Runnable {
                 String consulta = solicitud[1];
                 String posDocumento = solicitud[2];
                 
-                IndexadorLucene index = new IndexadorLucene(rutaDocumentos + "/" + tipo);
+                IndexadorLucene index = new IndexadorLucene(rutaDocumentos);
                 String resultado = null;
                 if (tipo.equals("Busqueda por palabra")){
                     resultado = index.getContenido(consulta, posDocumento);

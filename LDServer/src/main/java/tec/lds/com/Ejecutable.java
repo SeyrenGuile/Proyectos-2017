@@ -1,3 +1,5 @@
+package tec.lds.com;
+
 public class Ejecutable 
 {
     public static void main( String[] args )
