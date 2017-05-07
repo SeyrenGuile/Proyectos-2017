@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LDSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_busqueda_categoria">BusquedaCategoria</string>
+    <string name="title_activity_resultados_busqueda_especifica">ResultadosBusquedaEspecifica
+    </string>
+    <string name="title_activity_resultado_busqueda_categoria">ResultadoBusquedaCategoria</string>
+</resources>
