@@ -71,3 +71,35 @@ Se realizaron ajustes en la interfaz de Android Studio y se comenzo el documento
 
 Actividad de 22 de abril del 2017
 Se finalizo el plan de pruebas para la iteracion 2. Trabajo via Skype y Google Drive.
+
+Actividad de 25 de abril del 2017
+Se trabajo en el Paper del proyecto, el tema es "Recuperacion de la informacion textual. Se busco informacion relacionada al tema.
+
+Actividad 26 de abril del 2017
+Se comenzo a trabajar en el SAD2, falta la secciond e capas por falta de actualizacion en el codigo. Se termino el paper y se paso a latex.
+
+Actividad 27 de abril del 2017
+Se dividio las clases de la aplicacion y se empezo a trabajar en la navegacion de la aplicacion, tomando en cuenta las nuevas caracteristicas.
+
+Acitivad 28 de abril del 2017
+Reunion semanal con el cliente, se le mostraron los avances.
+
+Actividad 30 de abril del 2017
+Se empezo a realizar los cambios en el SAD2.
+
+Actividad 2 de Mayo del 2017
+Se completo la busqueda por palabra, se realizaron pruebas con su funcionalidad. Nos reunimos para trabajar.
+
+Actividad 3 de Mayo del 2017
+Se competo acceder al historial de la aplicacion.
+
+Actividad 4 de Mayo del 2017
+Se realiza cambios en la forma e que se muestran los documentos, se dieron algunos cambios en el servidor.
+
+Actividad 5 de Mayo del 2017
+Reunion semanal con el cliente, se muestran los avances de las funcionalidades.
+Firma la carta de aprobacion de la iteracion 2 y se consiguen documentos para el servidor.
+
+Actividad 6 de Mayo del 2017
+Se realiza el manual de usuario de la apliacion de la iteracion 1 y 2 y el del servidor tambien. Tambien
+se realizan los informes de pruebas de las iteraciones.
