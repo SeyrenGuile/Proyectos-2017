@@ -169,3 +169,32 @@ Fecha:06/05/17
 Se realizan el manual de usuario de la aplicacion LDSearch tanto de iteracion 1 y 2, se realiza el manual de usuario del servidor LDServer. Ademas se realizan los documentos de informes de pruebas de la iteracion 1 y 2.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Actividad:Realizacion de documento ERS3
+Fecha:09/05/17
+Se comenzo a trabajar en el documento de Especificacion de Requerimientos de Software para la tercera iteracion, esto actualizando el documento ya existente donde se toman en cuenta todos los cambios. Trabajo grupal via Skype y Google Drive.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Realizacion de documento Plan de Pruebas 3
+Fecha:12/05/17
+Se finalizo el documento de plan de pruebas para la iteracion 3, al actualizar el documento ya existente tomando en cuenta nuevos casos de prueba con las funcionaldades finales del programa. Trabajo grupal via Skype y Google Drive.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Continuacion programacion del codigo interno de la aplicacion (Pruebas de excepciones del programa)
+Fecha:14/05/17
+Se realizaron pruebas al programa para capturar excepciones, errores.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Comienzo del documento SAD3
+Fecha:17/05/17
+Se realizo el documento SAD para la iteracion 3.Trabajo grupal via Skype y Google Drive.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Reunion con el cliente, se muestran cambios y se espera aceptacion del mismo
+Fecha:19/04/17
+Se realizo la reunion semanal con el cliente, se le mostraron los avances de la aplicacion tomando en cuenta los avances dados, el cliente mostro su agrado nuevamente y solicitu la funcionalidad de borrar historial. Reunion en la Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Actualización documento SAD3
+Fecha:20/05/17
+Se realizaron loa cambios respectivos para la finalizacion del documento SAD para la iteracion 3, tomando en cuenta las funcionalidades de borrar historial solicitadas por el cliente.Trabajo grupal via Skype y Google Drive.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
