@@ -12,7 +12,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    public final static String IP = "192.168.43.165";
+    public final static String IP = "192.168.0.18";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

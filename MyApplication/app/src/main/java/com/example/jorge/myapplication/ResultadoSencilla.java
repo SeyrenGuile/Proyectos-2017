@@ -29,39 +29,44 @@ public class ResultadoSencilla extends AppCompatActivity {
         final String consulta = intent.getStringExtra(BusquedaSencilla.EXTRA_CONSULTA);
         final String ip = MainActivity.IP;
 
-        Log.i("Error", "Llegue aqui " + ip);
+        if(!consulta.isEmpty()){
+            final Activity actividad = this;
+            SolicitudResultados solicitud = new SolicitudResultados(actividad);
+            solicitud.execute(ip, "Busqueda por palabra", consulta);
 
-        final Activity actividad = this;
-        SolicitudResultados solicitud = new SolicitudResultados(actividad);
-        solicitud.execute(ip, "Busqueda por palabra", consulta);
+            Calendar fecha = Calendar.getInstance();
+            int dia = fecha.get(Calendar.DAY_OF_MONTH);
+            int mes = fecha.get(Calendar.MONTH) + 1;
+            int year = fecha.get(Calendar.YEAR);
+            OutputStreamWriter writer = null;
+            try {
+                writer = new OutputStreamWriter(openFileOutput("Historial.txt", MODE_APPEND));
+                writer.write(consulta + "-" + (dia + "/" + mes + "/" + year) + "\n");
+                writer.close();
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
 
-        Calendar fecha = Calendar.getInstance();
-        int dia = fecha.get(Calendar.DAY_OF_MONTH);
-        int mes = fecha.get(Calendar.MONTH) + 1;
-        int year = fecha.get(Calendar.YEAR);
-        OutputStreamWriter writer = null;
-        try {
-            writer = new OutputStreamWriter(openFileOutput("Historial.txt", MODE_APPEND));
-            writer.write(consulta + "-" + (dia + "/" + mes + "/" + year) + "\n");
-            writer.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
+            ListView listview = (ListView) findViewById(R.id.LLista1);
+            listview.setClickable(true);
+            listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                @Override
+                public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                    Intent intent = new Intent(actividad, Documento.class);
+                    intent.putExtra(EXTRA_OPCION, "Busqueda por palabra");
+                    intent.putExtra(EXTRA_CONSULTA, consulta);
+                    intent.putExtra(EXTRA_POSDOCUMENTO, String.valueOf(position));
+                    startActivity(intent);
+                }
+            });
+        }
+        else{
+            Intent intent2 = new Intent(this, NoResultados.class);
+            startActivity(intent2);
         }
 
-        ListView listview = (ListView) findViewById(R.id.LLista1);
-        listview.setClickable(true);
-        listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Intent intent = new Intent(actividad, Documento.class);
-                intent.putExtra(EXTRA_OPCION, "Busqueda por palabra");
-                intent.putExtra(EXTRA_CONSULTA, consulta);
-                intent.putExtra(EXTRA_POSDOCUMENTO, String.valueOf(position));
-                startActivity(intent);
-            }
-        });
 
     }
 }

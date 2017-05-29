@@ -6,19 +6,37 @@
     android:layout_height="match_parent"
     tools:context="com.example.jorge.myapplication.AccederHistorial">
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="357dp"
+        android:layout_height="71dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="borrarHistorial"
+        android:text="Borrar Historial"
+        tools:layout_editor_absoluteX="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.963" />
+
     <RelativeLayout
-        android:layout_width="377dp"
-        android:layout_height="514dp"
-        tools:layout_editor_absoluteY="-2dp"
+        android:layout_width="349dp"
+        android:layout_height="396dp"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent">
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.514"
+        app:layout_constraintVertical_bias="0.139">
 
         <ListView
             android:id="@+id/LLista2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentRight="true" />
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true" />
     </RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>

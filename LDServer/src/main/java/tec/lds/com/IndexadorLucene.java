@@ -52,7 +52,6 @@ public class IndexadorLucene {
     una lista de urls con los documentos que coincidan con la consulta
     */
     public List<String> encontrar(String palabra) throws IOException, ParseException{
-        
         //Se especifica donde se lee el indice invertido
         Path path  = Paths.get(origen);
         IndexReader ireader = DirectoryReader.open(FSDirectory.open(path));
@@ -70,15 +69,15 @@ public class IndexadorLucene {
         }
         return urls;
     }
+    
     public List<String> encontrarCategoria(String palabra) throws IOException, ParseException{
-        
         //Se especifica donde se lee el indice invertido
         Path path  = Paths.get(origen);
         IndexReader ireader = DirectoryReader.open(FSDirectory.open(path));
         IndexSearcher isearch = new IndexSearcher(ireader);
         
         //Se especifica en que seccion de los documentos se buscara y la palabra a buscar
-        QueryParser parser = new QueryParser("categoria", new StandardAnalyzer());
+        QueryParser parser = new QueryParser("fecha", new StandardAnalyzer());
         Query query = parser.parse(palabra);
         
         //Se obtienen los primeros 40 documentos del ranking y sus urls
@@ -93,8 +92,7 @@ public class IndexadorLucene {
     Este metodo se encarga de realizar una consulta en el indice invertido con la posicion del documento
     que se requiere y retorna un String con el contenido del Documento
     */
-    public String getContenido(String palabra, String pos) throws IOException, ParseException{
-        
+    public String getContenido(String palabra, String pos) throws IOException, ParseException{    
         //Se especifica donde se lee el indice invertido
         Path path  = Paths.get(origen);
         IndexReader ireader = DirectoryReader.open(FSDirectory.open(path));
@@ -114,15 +112,15 @@ public class IndexadorLucene {
         String resultado = contenidos.get(Integer.parseInt(pos));
         return resultado;
     }
-        public String getContenidoCategoria(String categoria, String pos) throws IOException, ParseException{
-        
+    
+    public String getContenidoCategoria(String categoria, String pos) throws IOException, ParseException{
         //Se especifica donde se lee el indice invertido
         Path path  = Paths.get(origen);
         IndexReader ireader = DirectoryReader.open(FSDirectory.open(path));
         IndexSearcher isearch = new IndexSearcher(ireader);
         
         //Se especifica en que seccion de los documentos se buscara y la palabra a buscar
-        QueryParser parser = new QueryParser("categoria", new StandardAnalyzer());
+        QueryParser parser = new QueryParser("fecha", new StandardAnalyzer());
         Query query = parser.parse(categoria);
         
         //Se obtiene el contenido del documento solicitado

@@ -47,9 +47,10 @@ public class Cliente implements Runnable {
                     IndexadorLucene index = new IndexadorLucene(rutaDocumentos);
                     resultado = index.encontrar(consulta);
                 }else if (tipo.equals("Busqueda por categoria")){
-                    IndexadorLucene index = new IndexadorLucene(rutaDocumentos + "/" + tipo);
+                    IndexadorLucene index = new IndexadorLucene(rutaDocumentos + "/" + consulta);
                     resultado = index.encontrarCategoria(consulta);
-                } 
+                }
+                System.out.println(resultado);
                 salida.writeObject(resultado);
             }
             else{
@@ -57,11 +58,12 @@ public class Cliente implements Runnable {
                 String consulta = solicitud[1];
                 String posDocumento = solicitud[2];
                 
-                IndexadorLucene index = new IndexadorLucene(rutaDocumentos);
                 String resultado = null;
                 if (tipo.equals("Busqueda por palabra")){
+                    IndexadorLucene index = new IndexadorLucene(rutaDocumentos);
                     resultado = index.getContenido(consulta, posDocumento);
                 }else if (tipo.equals("Busqueda por categoria")){
+                    IndexadorLucene index = new IndexadorLucene(rutaDocumentos + "/" + consulta);
                     resultado = index.getContenidoCategoria(consulta, posDocumento);
                 }                
                 salida.writeObject(resultado);

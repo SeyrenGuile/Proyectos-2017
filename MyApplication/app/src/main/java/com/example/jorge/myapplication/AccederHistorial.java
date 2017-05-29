@@ -41,9 +41,15 @@ public class AccederHistorial extends AppCompatActivity {
             e.printStackTrace();
         }
 
-        Log.i("Lista", lista.toString());
+        //Log.i("Lista", lista.toString());
         final ArrayAdapter adapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, lista);
         listview.setAdapter(adapter);
 
+    }
+
+    public void borrarHistorial(View view) {
+        deleteFile("Historial.txt");
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 }

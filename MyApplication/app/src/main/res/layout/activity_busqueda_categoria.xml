@@ -34,23 +34,23 @@
         app:layout_constraintVertical_bias="0.819">
 
         <Button
-            android:id="@+id/BEjemplo"
+            android:id="@+id/button0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:onClick="obtenerCategoria"
-            android:text="Himnos"
             android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true" />
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="21dp"
+            android:onClick="obtenerHimnos"
+            android:text="Himnos" />
 
         <Button
-            android:id="@+id/BEjemplo2"
+            android:id="@+id/button1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/BEjemplo"
+            android:layout_below="@+id/button0"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="15dp"
-            android:onClick="obtenerCategoria"
+            android:onClick="obtenerJovenes"
             android:text="Jóvenes" />
 
         <Button
@@ -59,6 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
+            android:onClick="obtenerAdultosSolteros"
             android:text="Jóvenes Adultos Solteros" />
 
         <Button
@@ -68,16 +69,18 @@
             android:layout_below="@+id/button2"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="19dp"
+            android:onClick="obtenerSociedadSocorro"
             android:text="Sociedad del Socorro" />
 
         <Button
             android:id="@+id/button4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sacerdocio"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="11dp" />
+            android:layout_marginBottom="11dp"
+            android:onClick="obtenerSacerdocio"
+            android:text="Sacerdocio" />
 
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>

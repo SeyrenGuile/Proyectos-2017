@@ -10,18 +10,51 @@ import android.widget.EditText;
 
 public class BusquedaCategoria extends AppCompatActivity {
 
+    public final static String EXTRA_CONSULTA = "consulta";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_busqueda_categoria);
     }
 
-    public void obtenerCategoria(View view) {
-        Button b = (Button)view;
-        String categoria = b.getText().toString();
-        Log.d("myTag", categoria);
+    public void obtenerHimnos(View view) {
+        String consulta = "himnos";
 
         Intent intent = new Intent(this, ResultadoCategoria.class);
+        intent.putExtra(EXTRA_CONSULTA, consulta);
+        startActivity(intent);
+    }
+
+    public void obtenerJovenes(View view) {
+        String consulta = "jovenes";
+
+        Intent intent = new Intent(this, ResultadoCategoria.class);
+        intent.putExtra(EXTRA_CONSULTA, consulta);
+        startActivity(intent);
+    }
+
+    public void obtenerAdultosSolteros(View view) {
+        String consulta = "adultosSolteros";
+
+        Intent intent = new Intent(this, ResultadoCategoria.class);
+        intent.putExtra(EXTRA_CONSULTA, consulta);
+        startActivity(intent);
+    }
+
+    public void obtenerSociedadSocorro(View view) {
+        String consulta = "sociedadSocorro";
+
+        Intent intent = new Intent(this, ResultadoCategoria.class);
+        intent.putExtra(EXTRA_CONSULTA, consulta);
+        startActivity(intent);
+    }
+
+    public void obtenerSacerdocio(View view) {
+        String consulta = "sacerdocio";
+
+        Intent intent = new Intent(this, ResultadoCategoria.class);
+        intent.putExtra(EXTRA_CONSULTA, consulta);
         startActivity(intent);
     }
 }
