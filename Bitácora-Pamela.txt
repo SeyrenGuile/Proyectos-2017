@@ -196,5 +196,31 @@ Se realizo la reunion semanal con el cliente, se le mostraron los avances de la 
 
 Actividad:Actualización documento SAD3
 Fecha:20/05/17
-Se realizaron loa cambios respectivos para la finalizacion del documento SAD para la iteracion 3, tomando en cuenta las funcionalidades de borrar historial solicitadas por el cliente.Trabajo grupal via Skype y Google Drive.
+Se realizaron los cambios respectivos para la finalizacion del documento SAD para la iteracion 3, tomando en cuenta las funcionalidades de borrar historial solicitadas por el cliente.Trabajo grupal via Skype y Google Drive.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Continuacion programacion (Borrar historial)
+Fecha:22/05/17
+Se implemento el boton con la funcionalidad de borrar el historial.Trabajo grupal via Skype y Google Drive.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Continuacion programacion (pantallas de errores)
+Fecha:24/05/17
+Se implementaron las pantallas de errores cuando no hay resultados encontrados o hay busquedas en blanco.Trabajo grupal via Skype y Google Drive.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Reunion semanal con el cliente
+Fecha:26/05/17
+Se realiza la reunion semanal con el cliente, se le muestran los avances finales de la aplicacion LDSearch. El cliente firma la carta de aprobacion de la iteracion 3 y el cliente proporciona documentos finales para el servidor. Reunion en la Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Comienzo de documentos Manuales de usuario, informes de pruebas
+Fecha:27/05/17
+Se comienzan los manuales de usuario de la aplicacion LDSearch y manual de usuario del servidor LDServer. Ademas del informe de pruebas de la iteracion 3.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Finalizacion de documentos Manuales de usuario, informes de pruebas
+Fecha:28/05/17
+Se comienzan los manuales de usuario de la aplicacion LDSearch y manual de usuario del servidor LDServer. Ademas del informe de pruebas de la iteracion 3.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
