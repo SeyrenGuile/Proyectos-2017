@@ -103,3 +103,33 @@ Firma la carta de aprobacion de la iteracion 2 y se consiguen documentos para el
 Actividad 6 de Mayo del 2017
 Se realiza el manual de usuario de la apliacion de la iteracion 1 y 2 y el del servidor tambien. Tambien
 se realizan los informes de pruebas de las iteraciones.
+
+Actividad 9 Mayo 2017
+Se empezo a trabajar en el ERS para la tercera iteracion. Trabajo a traves de Skype
+
+Actividad 12 de Mayo 2017
+Se realizo el plan de pruebas de la iteracion 3, se agrego nuevos casos de pruebas. Trabajo a traves de Skype
+
+Actividad 14 de Mayo 2017
+Se realizaron pruebas al programa para encontrar excepciones y errores.
+
+Actividad 17 de Mayo 2017
+Se realizo el SAD para la iteracion 3.Trabajo a traves de Skype
+
+Actividad 19 de Mayo 2017
+Reunion semanal con el cliente, se le mostraorn los avances y solicito poder borrar el historial.
+
+Actividad 20 de Mayo 2017
+Se termino el SAD para la iteracion, incluyendo la funcionalidad de borra el historial. Trabajo a traves de Skype
+
+Actividad 22 de Mayo del 2017
+Se agrego el boton para poder borrar el historial. Trabajo a traves de Skype
+
+Actividad 24 de Mayo del 2017
+Se agregaron las pantallas de errores para cuando no hay resultados encontrados o busquedas en blanco. Trabajo a traves de Skype.
+
+Actividad 26 de Mayo del 2017
+Reunion semanal con el cliente. Se le muestra los avances de la aplicacion.Se reciben los documentos para el servidor.
+
+Actividad 27 de Mayo del 2017
+Se empieza a trabajar en los manuales de usuario de la aplicacion y del servidor, tambien en el informe de pruebas de la iteracion.
