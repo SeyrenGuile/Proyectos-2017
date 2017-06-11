@@ -216,11 +216,21 @@ Se realiza la reunion semanal con el cliente, se le muestran los avances finales
 
 Actividad:Comienzo de documentos Manuales de usuario, informes de pruebas
 Fecha:27/05/17
-Se comienzan los manuales de usuario de la aplicacion LDSearch y manual de usuario del servidor LDServer. Ademas del informe de pruebas de la iteracion 3.
+Se comienzan los manuales de usuario de la aplicacion LDSearch y manual de usuario del servidor LDServer. Ademas del informe de pruebas de la iteracion 3.Trabajo grupal via Skype y Google Drive.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Actividad:Finalizacion de documentos Manuales de usuario, informes de pruebas
 Fecha:28/05/17
-Se comienzan los manuales de usuario de la aplicacion LDSearch y manual de usuario del servidor LDServer. Ademas del informe de pruebas de la iteracion 3.
+Se finalizan los manuales de usuario de la aplicacion LDSearch y manual de usuario del servidor LDServer. Ademas del informe de pruebas de la iteracion 3.Trabajo grupal via Skype y Google Drive.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Filmacion de pruebas de sistema
+Fecha:04/06/17
+Se filmaron las pruebas de el sistema de la aplicacion en el telefono movil personal, se realizaron todas las pruebas mencionadas en los documentos de informes de pruebas entregados anteriormente, se subio el video a Google Drive por motivos de peso del archivo.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Actividad:Realizacion de manuales tecnicos
+Fecha:10/06/17
+Se realizan los manuales tecnicos finales para ser entregados con el sistema.Trabajo grupal via Skype y Google Drive.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
