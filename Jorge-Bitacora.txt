@@ -133,3 +133,16 @@ Reunion semanal con el cliente. Se le muestra los avances de la aplicacion.Se re
 
 Actividad 27 de Mayo del 2017
 Se empieza a trabajar en los manuales de usuario de la aplicacion y del servidor, tambien en el informe de pruebas de la iteracion.
+
+Actividad 28 de Mayo del 2017
+Se terminan los manuales de usuario de LDSearch, y trambien del servidor LDServer. Tambien el informe de pruebas
+de la iteracion 3, trabajo grupal via Skype.
+
+Actividad 04 de Junio de 2017
+Se grabaron las pruebas del sistema de la aplicacion en un telefono movil, se realizaron las pruebas
+de los informes de prueba, se subio a Google Drive el video.
+
+
+Actividad 10 de Junio del 2017
+Se realizaron los manuales tecnicos finales para que sean entregados, junto con el sistema. Trabajo via Skype.
+
